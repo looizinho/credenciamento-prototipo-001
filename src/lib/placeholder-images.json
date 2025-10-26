@@ -1,3 +1,16 @@
 {
-  "placeholderImages": []
+  "placeholderImages": [
+    {
+      "id": "logo",
+      "description": "EventMaster logo",
+      "imageUrl": "https://images.unsplash.com/photo-1748326650737-33500fdfda30?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHw1fHxhYnN0cmFjdCUyMGxvZ298ZW58MHx8fHwxNzYxMzk2MDAwfDA&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageHint": "abstract logo"
+    },
+    {
+      "id": "hero-background",
+      "description": "Background image for the hero section",
+      "imageUrl": "https://images.unsplash.com/photo-1730900101455-80a9eb84615d?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHw4fHxldmVudCUyMGNvbmNlcnR8ZW58MHx8fHwxNzYxNTAwOTk5fDA&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageHint": "event concert"
+    }
+  ]
 }
